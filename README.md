@@ -2,6 +2,7 @@
 <br/>This website is to draw an auto path and save it in the database using HTML,CSS,javascript and PHP.<br/>
 You can enter the value and press the buttons to draw on the canves.<br/>
 After drawing the path you can save the path in the database or reset it.<br/>
+You can draw the path you want focusing on the direction and where you want to move from it.<br/>
 To draw the path, javascript is used to implement changes based on clicked button with the desired magnitude.<br/><br/>
 The shape of the Interface:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/1.JPG" > <br/>
@@ -16,5 +17,5 @@ The shape of the Interface:<br/>
 <br/>For the database ajax is used to reach to php and save it the data through php in the database.<br/>
 The database table consists of direction id, the name of the direction, the magnitude and the name of the path.<br/>
 The drawn path has been saved<br/>
-<br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/6.JPG"> <br/>
+<br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/7.JPG"> <br/>
 <br/>To see the website interaction there is a video showing the process and also the code is attached.
