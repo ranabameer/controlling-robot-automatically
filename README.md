@@ -6,10 +6,9 @@ To draw the path, javascript is used to implement changes based on clicked butto
 The shape of the Interface:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/1.JPG" > <br/>
 <br/>when inputting the magnitude and pressing the desired direction, a line with the same input appears.<br/>
-<br/>photo<br/>
+<br/><img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/3.JPG" > <br/>
 <br/>example of clicking the button and drawing the line:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/2.JPG" > <br/>
-<br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/3.JPG" > <br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/4.JPG" > <br/>
 <br/>Final path was like this we named it and saved it<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/5.JPG"> <br/>
