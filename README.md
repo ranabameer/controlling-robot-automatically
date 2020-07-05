@@ -16,4 +16,4 @@ The shape of the Interface:<br/>
 <br/>For the database php used to save in the database the table consists of direction id, the name of the direction, the magnitude and the name of the path.<br/>
 The drawn path has been saved<br/>
 <br/>photo<br/>
-<br/>To see the website interaction there is a video showing the process and also the code is attached
+<br/>To see the website interaction there is a video showing the process and also the code is attached.
