@@ -9,6 +9,7 @@ The shape of the Interface:<br/>
 <br/><img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/3.JPG" > <br/>
 <br/>example of clicking the button and drawing the line:<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/2.JPG" > <br/>
+<br/><img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/3.JPG" > <br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/4.JPG" > <br/>
 <br/>Final path was like this we named it and saved it<br/>
 <br/> <img src="https://github.com/ranabameer/controlling-robot-automatically/blob/master/image/5.JPG"> <br/>
